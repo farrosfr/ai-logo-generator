@@ -1,0 +1,6 @@
+{
+  "name": "AI Logo Generator",
+  "description": "A web app that uses AI to generate unique logos for new business ideas based on user descriptions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
